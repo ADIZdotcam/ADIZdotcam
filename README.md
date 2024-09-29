@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently working on Web development, data mining, software engineering<br>I have worked on data engineering, blender 3d modeling, database and ER designing, Director of photography for a music album<br>Ask me about Books, Anime, photography, videography, editing, 3d modeling, data science, data analytics, machine learning<br>
+- I'm currently working on Web development, data mining, software engineering
+- I have worked on data engineering, blender 3d modeling, database and ER designing, Director of photography for a music album
+- Ask me about Books, Anime, photography, videography, editing, 3d modeling, data science, data analytics, machine learning<br>
 
 
 ## 🌐 Socials:
